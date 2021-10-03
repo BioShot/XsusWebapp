@@ -1,0 +1,23 @@
+body {
+background-image: URL('background.jpeg');
+background-size: 1200px
+}
+
+.title {
+  text-align: center;
+
+
+}
+.under_title {
+  text-align: center;
+  text-decoration: underline;
+}
+.download_button_header {
+text-align: center
+
+}
+
+.download_link {
+text-decoration: none;
+color: black;
+}
